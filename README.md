@@ -41,6 +41,11 @@ I utilized the table visual to automate and visualize the income statement on Po
 A closer look at the income statement for GL Retail Corporation revealed stable revenue and cost of sales over the past three years. The gross profit ratios for 2019, 2020, and 2021 stood at 22.12%, 19.15%, and 20.87%, respectively. However, a significant decline in net profit and net profit ratio occurred in 2020 and 2021, possibly attributed to growing operating expenses and non-declining interest expenses amidst lower gross profit. Despite this, GL maintained a positive gross profit for all three years analyzed.
 
 
+![Screenshot (228)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/b1264ec1-e478-41fe-ad34-2e375869032c)
+
+
+
+
 ### **II. Revenue and Gross Margin%:**
 This metric illuminates the correlation between revenue and gross profit, serving as a pivotal gauge of a company's profitability. It signifies the efficiency with which a company manages its production costs and stands as a crucial indicator of overall profitability. A higher gross margin ratio implies superior cost control, translating to increased profitability on each unit of product or service sold.
 ### **Key Observations**
@@ -48,17 +53,50 @@ The gross profit ratio witnessed a decline from 2019 to 2020.
 In 2020, the GP% experienced a dip to 19.15%, signaling a reduction in profitability compared to the preceding year.
 Encouragingly, there was a modest improvement in 2021, with the GP% rising to 20.87%.
 Upon conducting a meticulous analysis to comprehend the factors contributing to these shifts, it was identified that a declining gross profit ratio in 2020 was attributed to challenges in managing production costs. In 2021, strategic measures were implemented, resulting in an increased GP ratio, indicative of enhanced cost control.
-Revenue and Gross Margin %III. Income Statement Expenses Analysis
+Revenue and Gross Margin %.
+
+
+![Screenshot (229)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/60e5c2c1-b497-452f-93cb-b8959a8c68ee)
+
+
+### III. Income Statement Expenses Analysis
 I employed a waterfall chart to illustrate the intricate connection between revenue and all expenses over the three-year reporting period. GL faces elevated costs of goods sold (COGS) and substantial operating expenses, primarily driven by escalating employee-related costs. Consequently, this leaves a narrow margin, with a net profit ratio hovering around a modest 5% or even less.
+
+
+![Screenshot (230)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/7e73700f-e178-43c9-84b9-f8adbbaa98db)
 
 
 ### **IV. Balance Sheet:**
 The preparation of the balance sheet mirrored the approach taken for the income statement. It unveiled a robust financial position for GL Retail, exemplified by a current ratio of 2.25 and a debt ratio of 0.04. This comprehensive report facilitates a detailed exploration, allowing for in-depth analysis of the financial positions on a monthly, quarterly, bi-annual, and annual basis. A clustered column chart illustrates the relationship between current assets and liabilities, consistently maintaining a current assets-to-liabilities ratio exceeding 2:1 across all periods. This portrayal aligns with favorable financial standing standards, as indicated by current ratio benchmarks.
 
 
+
+![Screenshot (233)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/c0f08ecb-28fe-45dd-a0c8-ca32efe76b43)
+
+**Other relevant visuals for a better understanding of GL Financial Standing**
+
+
+![Screenshot (231)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/a6cc197e-0753-45aa-b853-c7220ff9370b)
+
+
+![Screenshot (232)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/c70bad9b-b5a5-4b9a-a363-9564dcfeebe2)
+
+
 ### **Excel** 
 In Excel, utilizing pivot tables, cube formulas, and various other Excel functions, I established a unified and accessible data source for all Excel users within the company. This ensures the creation of a single source of truth, streamlining data access and enhancing consistency across the organization.
 
+
+
+![Screenshot (237)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/b0c23d49-b24b-4496-9753-b7e1e0f1a9d2)
+
+
+![Screenshot (236)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/325f3482-14f9-47da-82e8-d29ec216eca4)
+
+
+![Screenshot (235)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/48451eab-73fa-4a05-8d75-d6947bca774d)
+
+
+![Screenshot (234)](https://github.com/Preciousalor/Automating-and-visualizing-GL-s-financial-statement-using-Power-BI-GL-Retail-Corporation/assets/130922537/edef52b0-4596-4798-a98f-d6ec843b7300)
 
 
 
