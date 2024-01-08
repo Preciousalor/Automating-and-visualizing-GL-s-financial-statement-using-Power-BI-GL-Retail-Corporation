@@ -64,6 +64,10 @@ The nuanced exploration of GL's financial landscape reveals stability in revenue
 Observations on revenue and gross margin percentage underscore GL's profitability dynamics. A dip in the gross profit ratio in 2020 signals challenges, yet strategic interventions in 2021 usher in a rebound. The analysis of income statement expenses, visualized through a waterfall chart, highlights GL's delicate balancing act between expenditure and profitability.
 On the balance sheet front, GL's financial strength is evident with a current ratio of 2.25 and a debt ratio of 0.04. Monthly, quarterly, bi-annual, and annual analyses consistently portray a current assets-to-liabilities ratio exceeding 2:1, aligning with favorable financial standing standards
 In essence, this data-driven approach positions GL Retail for informed decision-making in the dynamic retail landscape. The revelations from this analysis serve as a compass, guiding GL towards continued success in the FMCG retail industry.
- 
-You can interact with the dashboard here: GL Retail Corporation Report-Power BI
+
+
+
+You can interact with the dashboard here: [GL Retail Corporation Report-Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGEzNGVkYWYtYTBmYy00YzQxLTk4OTMtMjU3MjdmYWM3ZGM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+
 Your questions and contributions are highly appreciated.
