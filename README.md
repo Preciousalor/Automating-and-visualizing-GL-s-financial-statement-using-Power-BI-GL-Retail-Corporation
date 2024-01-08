@@ -4,10 +4,10 @@
 GL Retail Corporation (GL) is a successful retail company with a headquarters and five retail outlets. With years of prosperous operations, GL has maintained its position as a market leader in the FMCG retail industry. GL intends to take a data-driven approach that transforms good performance into valuable insights for future decision-making. In this project, I played the role of a business intelligence developer. I focused on automating and visualizing GL's financial statement using SQL, Power Query, and Power BI. Subsequently, I replicated the three financial statements in Excel, employing Cube formulas that reference the data model, thus providing the team of Excel users with seamless access to Power BI data.
 
 ### **CONTENTS**
-1. Background(#background)
-2. Methodology(#methodology)
-3. Insights(#insights)
-4. Conclusion(#conclusion)
+1. [Background](#background)
+2. [Methodology](#methodology)
+3. [Insights](#insights)
+4. [Conclusions](#conclusions)
 
 ### **Background**
 Companies of all sizes have experienced significant advantages from data analysis, including enhanced decision-making, streamlined operations, personalized marketing, a competitive edge, and an improved customer experience. However, for a retail entity like GL, which has traditionally relied on Excel for analysis, the challenge lies in dealing with disorganized data and reports. The current process demands considerable time and manual effort each month, resulting in inconsistent answers. GL is actively pursuing a transition to Power BI to automate and visualize its existing Excel reporting, aiming to enhance efficiency, ensure reporting integrity, and gain new insights for a competitive advantage. Power BI, a robust data visualization tool, is ideal for analyzing GL Retail Corporation's extensive financial and non-financial data from various sources.
